@@ -4,8 +4,6 @@
 
 Built with **TypeScript, React, Atlassian Forge, Atlaskit, Zod, Jest, and the Jira REST and Agile APIs**.
 
-![Swipe Mode](docs/images/swipe-mode.png)
-
 ## Features
 
 * **Interactive backlog triage** — review Jira issues using swipe gestures or keyboard controls and choose to retain, delete, or move issues into an active sprint.
